@@ -1,2 +1,2 @@
 # scrapy_tutorial
-a tutorial practice for scrapy
+a tutorial practice of scrapy
